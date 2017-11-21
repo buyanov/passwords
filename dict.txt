@@ -142,6 +142,7 @@ $
 00000000000000
 0000001234qwer
 !@#0000004
+0000010023
 00001
 00002
 000110
@@ -320,6 +321,7 @@ $
 08512vlan35
 08512wangmeng
 08520
+0856149100
 08aoyun
 08stdx
 090386
@@ -442,6 +444,7 @@ $
 1042
 10481048
 105744668
+1064
 1066
 1070
 10718
@@ -915,6 +918,7 @@ $
 1234abcd!
 1234abcd!@#$
 1234ABCD
+1234admin
 1234asdf
 1234.com
 1234idc
@@ -1387,6 +1391,7 @@ $
 14lang
 15
 15007982
+1502
 150689468
 15084797725
 150ipnet)(*
@@ -1483,6 +1488,7 @@ $
 1663230
 166352166352
 16665582abc
+166816
 16712664
 167server
 168
@@ -6295,6 +6301,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 2646998
 265405
 266
+266344
 26645989
 2684
 26K479FMZ
@@ -6464,6 +6471,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 34563e4r5t6y
 345678
 345efswe54wsefE
+3477
 348745089qq
 @34wsw45667633r
 35
@@ -6530,6 +6538,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 39idc.com
 3abe74
 3ann35
+3ascotel
 3com
 !$%)3)cw
 3d2s1a
@@ -6915,6 +6924,7 @@ $@@45678jh
 49ers
 4dg@177
 4dm1n
+4getme2
 4jieyueyue.cn
 4jjxbokaidsmmdnnbfridge#@!
 %$4kgfsa
@@ -6922,6 +6932,7 @@ $@@45678jh
 4rfv5tgb
 4rfvbnm
 4rfv$RFV
+4tas
 4ty%%08775hj**)(743@%^$ewtp,/yui#@!
 4u71_=ofvnc5ah
 5
@@ -7515,6 +7526,7 @@ $@@45678jh
 810802....
 810921
 81102000
+8111
 8122-wgw-zjc
 81431528
 815
@@ -8139,6 +8151,7 @@ absorbed
 absurd
 abylon
 ac!@#
+acc
 ACCEPT
 access
 Acconut
@@ -8194,10 +8207,12 @@ addition
 address
 aden
 $ad_ephoto365.com$58762883$
+adfexc
 adg
 adgjmptw
 adidas
 adjustplan
+adm
 adm1n
 adm1n1strator
 adm1nistrator
@@ -8440,6 +8455,7 @@ adminzhijian
 adminzxc
 admin@zzidc
 admin@zzidc.com
+admn
 admpro
 admsuper
 admyangg
@@ -8605,6 +8621,7 @@ altimore
 alway
 alwaysoff
 Alyssa
+am
 ama
 amako
 amanda
@@ -8681,6 +8698,7 @@ ANHUI4342380
 anhuishengqiang
 anhuiyanhuangvps
 anhuiyanhugvps
+anicust
 animal
 Animal
 animals
@@ -8691,6 +8709,7 @@ ann
 anna
 anne
 annie
+anonymous
 anquan!@#
 anquandiyi4bd@!#
 anquanxinxilab!@#
@@ -8733,12 +8752,14 @@ aoyueidc2009
 aoyueidc2010
 aoyueidc2011
 aoyunhui
+apache
 APACHE
 apc
 apecn
 apecn123
 apecn123456
 apecn2008
+api
 apollo
 apollo13
 app@**520#
@@ -8799,6 +8820,7 @@ as950401
 asa
 asante
 asasas
+ascend
 ascony
 asd
 @@asd
@@ -8894,6 +8916,7 @@ ass
 asshole
 assword
 asterisk
+asteriskftp
 asus
 AT5V3987
 ataan
@@ -8905,6 +8928,7 @@ athena
 athens
 atlantis
 attachment
+attack
 attion.dnf.com177363**..
 attrib
 ATvX)g}f
@@ -9186,6 +9210,7 @@ BIGMUZZY
 bigred
 bilbo
 bilene
+bill
 BILLGATE
 billy
 bimmer
@@ -9239,6 +9264,7 @@ Blanche
 blank
 blank000
 blazer
+blender
 Bligh
 blink182
 Bliss
@@ -9258,6 +9284,7 @@ bluetooth
 Blume
 bmw
 BMW
+BMWG&$sg82%*H$*89
 bnb88
 bnm
 bnm,./
@@ -9523,6 +9550,7 @@ ccfeng66131421
 cck
 ccmove123qweasdzxc
 ccoo
+ccrusr
 cctv163
 cctv163163
 cctv4
@@ -10076,6 +10104,8 @@ cinternet_yzh
 cinternet_yzm
 cipher
 cisco
+Cisco
+_Cisco
 cisco123
 cisco2008
 ciscoadmin
@@ -10118,6 +10148,7 @@ clidc2010
 clidc2011
 clidc.com
 client
+client123
 clipper
 cloclo
 clone
@@ -10131,6 +10162,7 @@ cmbchina
 cmd
 cmidc.com
 cmq19911025
+cms500
 cmw6488553@!~
 cn1230
 cn123456
@@ -10671,6 +10703,7 @@ dl151.!*#
 dlcnc_idc
 dldl
 dlghtmxm2017!!
+D-Link
 dll
 dllcache
 dlldll
@@ -10817,6 +10850,7 @@ duoyi2006999
 dustin
 dusty
 DVD777rmvb
+dvs
 dw@258258
 dwight
 dw_#opensim_194_785401_$
@@ -10840,6 +10874,7 @@ dzwww
 dzxcncidc.com
 e1b2e3s4t5!
 e23h982T&^R$56R%^R$%
+e250changeme
 eachost.com
 eager
 eagle1
@@ -10863,6 +10898,7 @@ eb.com.cn2011
 EbmDAcqBunpuTr5d
 ebrides
 ec
+echo
 eclipse
 edc
 #edc
@@ -10987,6 +11023,7 @@ energy
 enet
 eneva
 engine
+engineer
 enicevenis
 enidccom
 enjoy
@@ -11002,6 +11039,7 @@ enkjidc2011
 enoa
 enorth
 enow
+enrique
 enter
 enterprise
 entropy
@@ -11329,6 +11367,7 @@ fhkj
 fiberhome
 fiction
 fieldenfield
+FIELD.SUPPORT
 finance
 findme
 fineidc0412
@@ -11343,6 +11382,7 @@ fish
 fish1
 fisher
 fishing
+fivranne
 fj
 fjfj123
 fjjcdfwang
@@ -11445,9 +11485,11 @@ fsu
 ft
 ft123
 ftp
+ftp123
 ftpadmin
 ftproot
 ftpserver
+ftptest
 ftpuser
 fu477776ck
 fu5ck
@@ -13174,6 +13216,7 @@ helmet
 helmut
 help
 help123
+helpdesk
 Helpdesk911
 helper
 helpful
@@ -14310,6 +14353,7 @@ inally2008
 inally.com
 indexhtm
 infected
+info
 info87093639
 info87093639!#%
 informatica
@@ -14317,6 +14361,7 @@ informix
 infosec
 infox1eies2sps3was4
 infox1eies2sps3was4!
+initpw
 inmc
 innosilicon
 insert
@@ -14325,6 +14370,7 @@ inset
 Inset
 insight
 install
+installer
 integrated
 intel
 intel..1
@@ -15662,6 +15708,7 @@ math
 matrix
 matt
 matthew
+Mau'dib
 maurice
 maveric
 maverick
@@ -16012,6 +16059,8 @@ msw987yan
 @msy520zxy8
 msz1230++
 Mt&8Q2v#A
+mtch
+mtcl
 mtvtop
 muDarya
 muffin
@@ -16068,6 +16117,7 @@ mysa123
 mysasa
 myserver
 myspace1
+mysql
 MYSQL
 mysql1230
 mysqldata
@@ -16076,6 +16126,7 @@ mysqlroot1230
 mysqlroot6780
 myssql
 mystery
+Mysweex
 mytv365
 mywwwroot
 mzj123
@@ -16097,6 +16148,7 @@ N2000SERVER
 n2000user
 N2000user
 N2000USER
+naadmin
 nagios
 naike
 naim
@@ -16133,6 +16185,7 @@ nation
 national
 native
 natolia
+NAU
 nautica
 nawa
 nazgul
@@ -16161,6 +16214,7 @@ ndros
 ndus
 ne
 ne1469
+nE7jA%5m
 nearer
 nebraska
 Nedongidc!@#
@@ -16204,6 +16258,7 @@ netshield
 netshield.cn
 netuser
 NETUSER
+NetVCR
 netware
 network
 )*network$@@^
@@ -16323,6 +16378,7 @@ nnn123
 no
 NO
 noahgc987
+nobody
 NOD323389
 nodream
 NoGaH$@!
@@ -16478,6 +16534,7 @@ odroid
 oen3389
 offer
 officer
+often blank
 oGArNpywc_GbRenH
 ogidc756888
 oh
@@ -16607,6 +16664,7 @@ openview
 openzj2008
 operation
 operator
+operator123
 opklm,./
 opq
 ops
@@ -16757,6 +16815,7 @@ PASS@w0rd
 PASS@w0rd.
 PASS@w0rd.*
 PASS@w0rd*
+PASSW0RD
 PASSW0RD.
 PASSW0RD.*
 PASSW0RD*
@@ -16767,6 +16826,7 @@ passwd
 passwd123
 passwerd0zero
 passwor
+$passwor
 password
 pass@word
 pass@word.
@@ -16842,6 +16902,7 @@ patience
 patient
 patricia
 patrick
+patrol
 patterson&19840830
 patterson719840830
 paul
@@ -16887,6 +16948,7 @@ pepsi1
 per
 perceive
 percy
+permit
 perry
 person
 personal
@@ -16979,6 +17041,7 @@ plato
 playdog_chinahotelhr
 player
 players
+plcmspip
 PlcmSpIp
 please
 pleasemygod
@@ -16986,6 +17049,7 @@ plenty
 plm
 pl,okmijn
 plop
+PlsChgMe1
 pluto
 pmc
 po
@@ -17017,6 +17081,7 @@ porter
 portland
 pos
 poss
+postgres
 postiv481
 powcr
 power
@@ -17059,12 +17124,14 @@ presto
 preston
 prince
 princess
+print2000
 PrintScreen
 prison
 privacy
 private
 Private
 privatew
+PRODDTA
 prodigy
 prof
 program
@@ -17811,6 +17878,7 @@ racing
 racoon
 radio
 radio123
+radware
 ragon
 raid
 raider
@@ -17849,6 +17917,7 @@ rBqW3o2v
 rc
 rc890830
 rchangel
+rcustpw
 rden
 r:DmLGmbnvhQJ65Y
 read
@@ -17930,6 +17999,7 @@ rinimama
 rininiang
 rinixianren
 rio
+RIP000
 ripper
 riri
 ririri
@@ -18008,6 +18078,7 @@ root22535
 root2root
 root321
 root5
+ROOT500
 root654321
 root888
 root99
@@ -18034,6 +18105,7 @@ roxy
 roy
 royal
 royals
+r@p8p0r+
 rpitc
 rq
 rr
@@ -18618,6 +18690,7 @@ sc1234%^&*
 sc13942429872
 sc512
 sc963852741
+scan
 scarlet
 scarlett
 school
@@ -18673,7 +18746,9 @@ seattle
 secret
 SecretC0de
 secure
+$secure$
 security
+SECURITY
 seek
 seeku13
 SEF#@fdg54FG
@@ -19115,6 +19190,7 @@ spanish
 spanky
 sparky
 sparrow
+specialist
 spectrum
 speech
 speedo
@@ -19122,6 +19198,7 @@ speedy
 spencer
 spider
 spike
+SpIp
 spirit
 spitfire
 spooky
@@ -19239,6 +19316,7 @@ starwars
 station
 stdx
 stealth
+steam
 steel69
 steele
 steelers
@@ -19359,9 +19437,12 @@ suporte
 supp0rt
 supper
 supplier
+suppor
 support
 Support
 support123
+supportpw
+supportubnt
 supra
 surf
 surfer
@@ -19370,6 +19451,8 @@ suse
 suxing
 suxue
 suzanne
+svin
+svn
 svwlzx!@#$%^&*
 sw0rdf1sh
 sw123!@#
@@ -19418,6 +19501,7 @@ syrea
 syrea@123
 syrea2008
 sys
+SYS
 sys123
 sysadm
 sysadmin
@@ -19476,6 +19560,7 @@ tamade@123
 tamara
 tammy
 tan68243848
+TANDBERG
 tandy
 tang
 tang520@!~
@@ -19534,6 +19619,7 @@ tea
 teacher
 teachers
 teamspeak
+tech
 tech50016731
 techno
 techsupport
@@ -19542,6 +19628,7 @@ teddy1
 TeIubescMonicutzaa
 tek.soxan.down.2010
 TeLacH*UaN@#$xiang
+telco
 tele2008
 tele2009
 telecom
@@ -19552,6 +19639,7 @@ teleidc
 teleidc.cn
 telkomidc$123
 tellme
+telnet
 telnet1234
 telnetbat
 temp
@@ -19618,6 +19706,7 @@ testpass
 testpasswort
 Tests.
 testtest
+testuser
 testy
 tetanus
 tether
@@ -19984,6 +20073,7 @@ tk80d3bkztqn
 tkggja850518`1
 tkila
 tkmp
+tlah
 tlas
 tlc12
 tless13high
@@ -20036,6 +20126,7 @@ tom
 tom365
 tomato
 tomb
+tomcat
 tomcatadmin
 tomcatcat
 tomcatmanager
@@ -20353,6 +20444,7 @@ tryout
 tryst
 ts
 ts1234
+ts3
 tsaiger
 tsar
 tsee
@@ -20649,6 +20741,7 @@ uangHe
 ubaducom133
 ubei
 ubnt
+ubnt123
 ubuntu
 ucdos
 uckland
@@ -20836,6 +20929,7 @@ uphold
 upholder
 upland
 uplift
+uplink
 upload
 upndwn
 upol
@@ -20988,6 +21082,7 @@ utterly
 utztrp0
 UU77
 uucp
+uucp123
 uunet1
 uunn
 uuu123
@@ -21360,6 +21455,7 @@ vivid
 vividly
 vivienruby
 vivo.sh.kl
+vizxv
 vk23p83mmd
 vlan35cnktu
 vlan35.com
@@ -21446,6 +21542,7 @@ VS-229tqb
 vserver
 vsql
 vss
+VTech
 vuagA1wnZSUf
 vulgar
 vulture
@@ -22223,6 +22320,7 @@ winowsxp
 winpass
 winsome
 winston
+winterm
 wintry
 winxp
 wipe
@@ -23057,6 +23155,7 @@ xc-0000
 xc2007
 xc2008
 xc2009
+xc3511
 xc758
 xc8888
 xc-8888
