@@ -8451,6 +8451,7 @@ ADPING!@#$
 adrian
 ADSD24334322@#234@#$@sxasda
 adsl
+adslolitec
 adslquite
 adt123
 advil
@@ -8524,6 +8525,7 @@ aisini
 aisinile
 aistar123<>!N
 aitangning
+AitbISP4eCiG
 aiti
 aiting
 aiwuhui
@@ -8704,6 +8706,8 @@ anyao868xiu
 ANYCOM
 anyp
 anypass
+<Any pass>
+<Any Pass>
 ao34.80
 aode
 aodi0.0
@@ -8781,6 +8785,7 @@ arp123
 arp2200
 ARTEFACT
 artica
+articon
 artist
 ary
 arz
@@ -8792,6 +8797,7 @@ as126
 as3662202
 as950401
 asa
+asante
 asasas
 ascony
 asd
@@ -8897,6 +8903,7 @@ atdmt
 ath
 athena
 athens
+atlantis
 attachment
 attion.dnf.com177363**..
 attrib
@@ -9040,6 +9047,7 @@ barbara
 barbie
 barf1234
 barney
+barricade
 barry
 basebal
 baseball
@@ -10109,6 +10117,7 @@ clidc2009
 clidc2010
 clidc2011
 clidc.com
+client
 clipper
 cloclo
 clone
@@ -11003,6 +11012,7 @@ eoobojxmeishi213014
 eoobojxmeishi213015
 eoobozaq12wsx
 EOr8FL5q
+epicrouter
 epjtyy!@#$%19761230/*-
 epon
 EPON
@@ -11434,9 +11444,11 @@ fsidc123456
 fsu
 ft
 ft123
+ftp
 ftpadmin
 ftproot
 ftpserver
+ftpuser
 fu477776ck
 fu5ck
 fu656ck
@@ -13240,6 +13252,7 @@ heruixue85361356
 herzog
 hesitant
 hesitate
+heslo
 heung-do
 he@Uz5-Hz5cw
 hew
@@ -14356,6 +14369,7 @@ iris
 irish
 ironde
 ironman
+ironport
 is@|1433773771
 Is4000Swlw
 isaac
@@ -15949,6 +15963,7 @@ money1
 mongo123
 monica
 monique
+monitor
 monkey
 monkey1
 monopoly
@@ -16165,6 +16180,7 @@ net
 Net
 net001
 net123
+netadmin
 netbank.cn
 netbank.cn@))(
 netbank.cn@009
@@ -16268,6 +16284,7 @@ NINE!@#
 ninedns
 niners
 ningxia
+ninja
 nirvana1
 nishabi
 nishama
@@ -16319,6 +16336,7 @@ nongcun
 nongmin
 nono
 noparking
+nopass
 Nopass@elong.com
 nopasswd
 norman
@@ -16491,6 +16509,7 @@ oliver
 olivia
 olivier
 olland
+ololo
 olySee
 om
 omega1
@@ -18711,6 +18730,7 @@ serverxp
 service
 Service
 service12
+service123
 services
 servidor
 Servwe
@@ -19194,6 +19214,7 @@ sse
 ssh.a
 ssh.b
 ssh.c
+sshd
 ssh.d
 ssh.f
 ssh.g
@@ -20966,6 +20987,7 @@ utter
 utterly
 utztrp0
 UU77
+uucp
 uunet1
 uunn
 uuu123
