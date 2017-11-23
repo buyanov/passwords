@@ -18023,6 +18023,7 @@ ftpserver
 ftptest
 ftpuser
 ftpuser1
+ftp_user123
 ftpusr
 fu477776ck
 fu5ck
