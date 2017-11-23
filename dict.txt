@@ -30890,6 +30890,7 @@ ubei
 ubnt
 ubnt123
 ubuntu
+ubuntu@123
 ucdos
 ucdoswps
 uckland
