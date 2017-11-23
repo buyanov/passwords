@@ -25478,6 +25478,7 @@ oracle10
 oracle11
 oracle11g
 oracle123
+oracle@123
 ORACLE123!@#
 oracle123456
 oracle8
@@ -29034,6 +29035,7 @@ sqlzxc
 sqnal123
 sqsyyaxh
 squid
+squid123
 squirt
 Squirt
 sqwzndz21
