@@ -27194,6 +27194,7 @@ retno
 reton
 retRemark
 reverse
+revisor
 rewqfdsa
 rex
 rexidc
@@ -31061,6 +31062,7 @@ unmade
 unmarked
 unmoved
 unndc
+uno
 unpack
 unpaid
 unreal
