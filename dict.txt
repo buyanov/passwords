@@ -13798,6 +13798,7 @@ a~fengnanjingjucai
 Affdde@##>dsdsa
 affin
 afia
+afops2016
 africa
 AGAINST
 againtry
@@ -18042,6 +18043,7 @@ ftpuser
 ftpuser1
 ftpuser123
 ftp_user123
+ftpuser@123
 ftpuser@1234
 ftpusr
 fu477776ck
