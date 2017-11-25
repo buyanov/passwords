@@ -16675,6 +16675,7 @@ daynet2008
 daytek
 dazhihui
 dazhong
+db00Hdear$2017
 db2admin
 db2fenc
 db2fenc1
