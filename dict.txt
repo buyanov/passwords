@@ -30685,6 +30685,7 @@ ts3bot
 ts3bot1
 ts3bot1123
 ts3bot123
+ts3bot2
 ts3server
 ts4
 ts5
