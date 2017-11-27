@@ -13828,6 +13828,7 @@ agility
 agitation
 agreb
 Agromaro$01
+Agromaro%01
 agros
 agsadmin
 aguio
@@ -30697,6 +30698,7 @@ ts3bot2123
 ts3bot3
 ts3bot3123
 ts3bot4
+ts3bot4123
 ts3server
 ts4
 ts5
