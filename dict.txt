@@ -15008,6 +15008,7 @@ boss
 boston
 Boston
 bot
+bouncer
 bound
 bove
 bowling
@@ -18932,6 +18933,7 @@ git1
 git%2520clone%2520cn_api
 gitadmin
 gittest
+gituser
 give
 givein
 given
@@ -23913,6 +23915,7 @@ loveyuyu
 lovezjf3k.
 loweiyi
 lowexefmarry
+lp123lp
 lp123!njx@
 lp3up
 lpk
@@ -25654,6 +25657,7 @@ P455w0rd
 p4Ssw0rd
 P4ssw0rd
 P4$$w0rd
+p@55w0rd
 P@55w0rd
 p7p7p7
 p7x4y3
@@ -25836,6 +25840,7 @@ PassWOrd.
 PassWOrd.*
 PassWOrd*
 PassWOrd*.
+PASSWORD
 password01!
 Password01
 password1
@@ -26948,6 +26953,7 @@ qweasdzxc123
 qweasdzxc123!@#
 qwe!@#bb520
 qwedata
+qwedcxz
 qwedsazxc
 qweidc
 qweqaz123123123
@@ -30732,6 +30738,7 @@ ts3bot4
 ts3bot4123
 ts3bot5
 ts3bot5123
+ts3rpr
 ts3server
 ts3server1
 ts3server2
