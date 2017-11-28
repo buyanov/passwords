@@ -26590,6 +26590,7 @@ qazxsw
 !QAZXSW@
 !QAZXSW\
 qazxsw123
+Qazxsw123
 !qazxsw2
 !qazxsw2@
 !qazXSW2
@@ -26977,6 +26978,7 @@ qwer!@#$%
 QWER
 !@#$QWER
 !Q@W#E$R
+Q!W@E#R$
 QWER!@#$
 qwer@0988
 qwer1101487
