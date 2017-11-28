@@ -13303,6 +13303,7 @@ AbC@123..
 ABC@123..
 abc1234
 abc12345
+Abc12345
 abc123456
 abc123456789
 abc123456abc
@@ -16846,6 +16847,7 @@ develop
 developer
 development
 devilblf
+devuser
 dexilcar
 dexter
 Dexter
@@ -17439,6 +17441,7 @@ elizabet
 ellacat
 ellen
 elliot
+ellory
 elmatador
 elsie
 elsingor
@@ -25839,6 +25842,7 @@ password1
 pass@word1
 password@1
 Password1
+Password10
 password110
 password12
 password123
@@ -26574,6 +26578,7 @@ qazxsw
 !@#$^qazxsw
 !qazXSW@
 !QAZxsw@
+!QAZXSW@
 !QAZXSW\
 qazxsw123
 !qazxsw2
@@ -29797,6 +29802,7 @@ test
 test$
 TEST
 test01
+test02
 test1
 test102
 test12
@@ -30713,6 +30719,7 @@ ts1234
 ts2
 ts3
 ts3123
+ts3@123
 ts3bot
 ts3bot1
 ts3bot1123
