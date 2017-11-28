@@ -24815,6 +24815,7 @@ myspace1
 mysql
 MYSQL
 mysql1
+mysql@123
 mysql1230
 mysql2
 mysqldata
@@ -25647,6 +25648,7 @@ p0o9i8u7y6t5r4
 p123456789
 p2p
 P455w0rd
+p4Ssw0rd
 P4ssw0rd
 P4$$w0rd
 P@55w0rd
