@@ -14787,6 +14787,7 @@ better.165
 betty
 beyond
 BF(1234)!@#$
+bf1942server
 bfi
 bfsh
 bggdaa
@@ -25834,6 +25835,7 @@ passWord*
 passWord*.
 Password
 Pass@word
+Password!@#
 Password.
 Password.*
 Password*
@@ -29336,6 +29338,7 @@ stuck
 student
 Student
 student123
+student7
 studio
 studly
 Studly
