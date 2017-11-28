@@ -26022,6 +26022,7 @@ photo
 php
 phpadmin
 phplive
+phpmyadmin
 PHwoaini
 pi
 pia
