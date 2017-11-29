@@ -15381,6 +15381,7 @@ ccmove123qweasdzxc
 ccoo
 ccrong
 ccrusr
+ccserver
 cctv
 cctv123
 cctv163
@@ -27084,6 +27085,7 @@ qwerty111111
 qwerty12
 qwerty123
 qwerty123!
+Qwerty123
 qwerty1234
 qwerty12345
 qwerty123456
