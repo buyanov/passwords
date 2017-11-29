@@ -16300,6 +16300,7 @@ cococ
 cod2server
 code8925
 codefc
+codserver
 coed
 coes
 coffee
@@ -25696,6 +25697,7 @@ p4$$w0rd
 P4$$w0rd
 p@55w0rd
 P@55w0rd
+P@55w0rd!
 p7p7p7
 p7x4y3
 p8p2j5j
@@ -29616,6 +29618,7 @@ sys
 SYS
 sys123
 sysadm
+sysadm@123
 sysadmin
 syscheck
 syslog
