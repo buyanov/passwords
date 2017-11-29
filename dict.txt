@@ -25644,6 +25644,7 @@ oracle11g
 oracle123
 oracle@123
 ORACLE123!@#
+oracle1234
 oracle123456
 oracle2
 oracle8
@@ -26468,6 +26469,7 @@ P@$$w0rd
 pwd
 pwd1
 pwdbewizz
+p@$$word
 pwrchute
 pws
 pxry
