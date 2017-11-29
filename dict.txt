@@ -21663,6 +21663,7 @@ iis3xchank4lt
 iis3xchank4yy2
 iis_admin
 ijnokm
+ikawnaangbida
 ikeda
 ikwb
 IL0VEYOU
@@ -25838,6 +25839,7 @@ passw0rd123
 Passw0rd123
 passwd
 passwd123
+passwdroot
 passwerd0zero
 passwor
 $passwor
