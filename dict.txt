@@ -24140,6 +24140,7 @@ macha
 machao
 macheng
 macintos
+macintosh
 macro
 madcat
 maddock
@@ -31192,6 +31193,7 @@ ubnt123
 ubuntu
 ubuntu123
 ubuntu@123
+ubuntu1234
 ucdos
 ucdoswps
 uckland
