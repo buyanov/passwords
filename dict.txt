@@ -113,6 +113,7 @@
 @@^^%$@#%^&&*(**&^^
 @@@@@@
 @#$%^&
+@#$%^&*!
 @#$%&*()
 @%**^*%
 $
@@ -15006,6 +15007,7 @@ Bonnie
 bonnie88
 booboo
 Booboo
+boogaloo
 booger
 Booger
 boogie
@@ -16536,6 +16538,7 @@ cty
 ctyily
 ctz
 cubrid
+cubswin:)
 cuddles
 cuibin1986619
 cuiyanfeng
@@ -16957,6 +16960,7 @@ didi
 didi680
 dididi
 dieting
+dietpi
 digger
 Digger
 Digi
@@ -19138,6 +19142,7 @@ goblue
 gobuffs
 goby
 gocougs
+gocubsgo
 God
 godbless
 goddess
@@ -20427,6 +20432,7 @@ hewitt
 hewlett
 hex
 hexin2008
+hexxeh
 hey
 heyang
 heyking
@@ -23383,6 +23389,7 @@ libo
 libo21
 library
 Library
+libreelec
 libsys
 libsys1
 libuuid
@@ -27122,6 +27129,7 @@ qwertyasdfgh
 QWERTYasdfgh
 qwertyqwerty
 qwertyqwerty.poweridc
+qwertyroot
 qwertyu
 q!w@e#r$t%y^u
 q!w@e#r$t%y^u&
@@ -31996,6 +32004,7 @@ volt
 voltage
 voluble
 volume
+volumio
 volvo
 vomit
 von
