@@ -28564,6 +28564,7 @@ linux@123
 Linux+!68
 linuxadmin
 linuxbox
+linuxgsm
 linuxmint
 linuxroot
 linuxserver
