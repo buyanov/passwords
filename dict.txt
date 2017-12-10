@@ -31454,6 +31454,7 @@ oracle1234
 oracle123456
 oracle2
 oracle8
+oraclepass
 ORACLE-PC
 oracrp
 oradea
@@ -34379,6 +34380,7 @@ rupa
 rupert
 ruqin
 rush2112
+rushi
 rushprint
 russ
 russel
