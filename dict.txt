@@ -30487,7 +30487,9 @@ nadia
 nadine
 nag1os
 nagios
+nagios123
 nagiosadmin
+nagiosnagios
 nagiosuser
 nagius
 naike
