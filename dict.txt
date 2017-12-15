@@ -16404,6 +16404,7 @@ Arthur
 artica
 articon
 artist
+art-lombard74
 artnmq5c
 artur
 aruan
@@ -30488,6 +30489,7 @@ nadine
 nag1os
 nagios
 nagios123
+nagios@123
 nagiosadmin
 nagiosnagios
 nagiosuser
