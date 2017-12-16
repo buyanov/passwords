@@ -15964,6 +15964,7 @@ alt
 altab
 altair
 alt-as
+alt-as@123
 altavista
 altavoces
 Altenter
@@ -29739,7 +29740,9 @@ megafon-gos
 megafon-gos@123
 megafon-gos@1234
 megafon-gos12345
+megafon-gos@12345
 megafon-gos123456
+megafon-gos@123456
 megajoy
 megajoy5161
 megajoy.local
@@ -30129,6 +30132,10 @@ mmidc123456
 mmidc2008
 mmidcmm
 m-mir74
+m-mir74@1
+m-mir741234
+m-mir74@12345
+m-mir74123456
 mmiyy520
 mmjj
 mmllsvv
