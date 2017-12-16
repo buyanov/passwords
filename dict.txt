@@ -15964,6 +15964,7 @@ alt
 altab
 altair
 alt-as
+alt-as1
 alt-as@1
 alt-as123
 alt-as@123
@@ -18339,6 +18340,7 @@ chel-steel
 chel-steel@1
 chel-steel123
 chel-steel@123
+chel-steel123456
 chem
 chemical
 chemist
