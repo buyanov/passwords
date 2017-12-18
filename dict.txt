@@ -32635,6 +32635,7 @@ P@ssWord*.
 P@ssword1
 p@ssword123
 P@ssword123
+P@SSWORD123
 P@ssword1234
 psy
 psybnc
