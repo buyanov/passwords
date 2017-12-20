@@ -20441,6 +20441,7 @@ domain
 %domain%@1
 %domain%123
 %domain%@123
+%domain%2017
 domdom
 domenico
 dominic
@@ -32639,6 +32640,8 @@ P@ssWord.
 P@ssWord.*
 P@ssWord*
 P@ssWord*.
+p@ssword1!
+@P@ssword1
 P@ssword1
 p@ssword123
 P@ssword123
