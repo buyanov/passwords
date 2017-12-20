@@ -15400,6 +15400,7 @@ admin2013
 admin2014
 admin@2014
 admin@2016
+admin2017
 admin21
 admin22
 admin222
@@ -20437,6 +20438,9 @@ dolphin
 Dolphin
 dolphins
 domain
+%domain%@1
+%domain%123
+%domain%@123
 domdom
 domenico
 dominic
