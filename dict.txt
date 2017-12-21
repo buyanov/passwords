@@ -20438,6 +20438,7 @@ dolphin
 Dolphin
 dolphins
 domain
+%domain%1
 %domain%@1
 %domain%123
 %domain%@123
