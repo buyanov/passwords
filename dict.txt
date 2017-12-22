@@ -17412,6 +17412,7 @@ bobjsy851027
 bobo
 [BOBR
 bobs
+bodhilinux
 boeing
 bofee
 bogus
@@ -31544,6 +31545,7 @@ oracle11g
 oracle12
 oracle123
 oracle@123
+Oracle123
 ORACLE123!@#
 oracle1234
 oracle123456
