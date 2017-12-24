@@ -19361,6 +19361,7 @@ Copper
 cops
 copy
 coral
+corazon
 corben12
 corleone
 cornelia
@@ -34430,6 +34431,7 @@ rst_login../
 rstudio
 rstudio123
 rstudio@123
+rsync
 rt
 rta
 rtb
@@ -37450,6 +37452,7 @@ tennis
 Tennis
 tenuous
 tepid
+tequiero
 tequila
 teresa
 Teresa
