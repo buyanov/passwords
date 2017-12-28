@@ -38989,6 +38989,7 @@ ubei
 ubnt
 ubnt123
 ubnt,Republicof
+ubntroot
 ubuntu
 ubuntu123
 ubuntu@123
