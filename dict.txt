@@ -49,6 +49,7 @@
 _
 _+|{}:\
 -
+--
 ---
 ----
 -----
@@ -119,6 +120,7 @@ _+|{}:\
 !@#$%^&*()
 !@#$%^&*()_+
 !@#$%^&*())(*&^%$#@!
+!@##@!
 !@##@!!@#
 !*
 !#
@@ -168,6 +170,7 @@ _+|{}:\
 )&%(&&^%(**
 [
 [[
+[[[[[[[
 []
 []{}
 [{}}
@@ -445,6 +448,7 @@ $%^###!@~!@#@#@###
 0.123abc!!
 0123lhb
 0123lhb0123
+0123passw0rd
 0127
 0.128a
 013622djkk
@@ -485,6 +489,7 @@ $%^###!@~!@#@#@###
 02151031
 02154109685
 021hb.com2008
+021networks
 021online
 021online2008
 021online.com
@@ -744,6 +749,7 @@ $%^###!@~!@#@#@###
 0by#Nu9p^&
 0DyB
 0fe14df4dd889178
+0HBvcaUyW
 0k9j8h
 0k9j8h7g
 0m3g4
@@ -758,7 +764,9 @@ $%^###!@~!@#@#@###
 0okm9ijn8uhb
 0okmnji9
 0OO00OO00OO0OO00
+0-o-O-o-O
 0p
+0-p0-p0-p
 0p9o
 0p9o8i
 0p9o8i7u
@@ -826,6 +834,7 @@ $1$
 1007
 100744060
 1008
+100809
 100819aa
 100827092
 100859
@@ -976,6 +985,9 @@ $1$
 10isp.com
 10ispidc
 10jqka
+10jqka!@#
+10jqka.com
+10nss2mm
 10qp10
 10safcf
 10sne1
@@ -1227,6 +1239,8 @@ $1$
 114lang
 115
 115101535
+115.236-idc
+115.236idc!@#
 115270
 1155
 1155..
@@ -1310,6 +1324,7 @@ $1$
 120888
 120ask
 120ask.com
+120hongkong
 121
 *121#
 1210
@@ -1401,8 +1416,10 @@ $1$
 !@#$%^123..
 !@#$%^123...
 !@#$%^123....
+!#$123
 !1@2#3
 .1.2.3
+@123
 #@!123
 +-*/123
 1!2@3#
@@ -1484,6 +1501,7 @@ $1$
 12312300
 123123000
 123123123
+123@123@123
 123123123123
 123123321
 1231234
@@ -1702,6 +1720,9 @@ $1$
 12345678*&^%$#@!
 123456780
 123456789
+!1@2#3$4%5^6&7*8(9
+123-456-789
+123456789-
 123456789!@#
 123456789!@#$%^&*(
 123456789.
@@ -1712,6 +1733,7 @@ $1$
 123456789**
 1234567890
 !@#$%^&*()1234567890
+1!2@3#4$5%6^7&8*9(0)
 123456789.0
 1234567890-=
 1234567890!@#$%^&*()
@@ -1721,6 +1743,7 @@ $1$
 12345678900987654321
 1234567890123
 1234567890236
+1234567890.a
 1234567890-=@dt
 1234567890!@#$%^qaz
 1234567890qwertyuiop
@@ -1731,6 +1754,7 @@ $1$
 12345678933
 1234567899
 123456789a
+123456789a123
 123456789aA
 123456789Ab
 123456789abc
@@ -1740,6 +1764,7 @@ $1$
 123456789Mima.
 123456789Mima@
 123456789q
+123456789-.q
 123456789qq
 12345678a
 12345678abc
@@ -1828,6 +1853,7 @@ $1$
 123456w
 123456you
 123456ytrewq
+123456z
 123456zxcvbn
 123457
 1.23457E+11
@@ -1920,7 +1946,9 @@ $1$
 1234qqqq
 1234qw
 1234qwe
+1234QWE
 1234qwer
+`1234qwer
 !@#$1234qwer
 1234@qwer
 1234qwer,
@@ -2069,6 +2097,7 @@ $1$
 123ewqasdcxz
 123go
 123gzwfandi456
+123hx456
 123.idc
 123IDC
 123jafdjsqwe
@@ -2091,6 +2120,7 @@ $1$
 123moms
 123mudar
 123muie123
+123passw0rd
 123qaz
 123qaz!@#
 123qaz456wsx
@@ -2103,6 +2133,7 @@ $1$
 123qsz
 123qw
 123qwe
+`123qwe
 !123qwe
 !@#123qwe
 @123qwe@
@@ -2120,6 +2151,7 @@ $1$
 123qwe123qwe
 123qwe31
 123qweasd
+123qweasd!@#
 123qweASD
 123QWEasd
 123QWEASD
@@ -2129,6 +2161,7 @@ $1$
 123QWEonlyidc
 123qweqwe
 123qweQWE
+123qweQWEa
 123qwer
 123@qwer
 123qwer!
@@ -2144,6 +2177,7 @@ $1$
 123wsx
 123www-data
 123www-data123
+123@xaidc!@#
 123xyz
 123y45
 123yhn
@@ -2153,6 +2187,7 @@ $1$
 123zxcfgas
 123zxcgogo
 123zxcvbnm
+123zxcZXC
 123!@#zzidc
 124
 1240
@@ -2360,6 +2395,7 @@ $1$
 13504982573o
 13505058262
 135135
+13513585034asd
 1351688
 1351688abc
 13518165958
@@ -2690,6 +2726,7 @@ $1$
 15254337128
 1525449
 153
+15305741888
 15306515590
 15320
 154
@@ -7457,12 +7494,14 @@ $1$
 19860928
 19861018
 19861020
+19861021
 19861029
 1986105
 1986115
 19861212
 19861217xxc
 19861986
+19862021tj
 1986220
 1986223205fanfan520zx
 1986418
@@ -7689,6 +7728,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 1q2w3e4r%T
 1q2w3edd
 1q2w3e$R
+1q2w3e$R%
 1q2w3e$R%T^Y
 1q2waa
 1q2we
@@ -7710,6 +7750,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 1qaz!@#$%^
 1qaz\
 1QAZ
+1qaz@123
 1qaz13.14
 1qaz1qaz
 1qaz@1qaz
@@ -7769,6 +7810,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 1qaz@WSX3edc$RFV
 1qaz@WSX3edc$RFV5tgb^YHN
 1qaz@wsx#edc
+1qaz@WSX#edc
 1qazx
 1qazxcde32
 1qazxcde32ws
@@ -7798,6 +7840,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 1qw23e
 1qw23er4
 1qw23er45t
+1QW23ER45T
 1qw2er
 1qw2er3ty
 1q@w3e
@@ -7825,6 +7868,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 1root
 1root1
 1s1058408
+1s.2.sS1.d.f1
 1sa
 1sal
 1sanjose
@@ -8012,6 +8056,13 @@ $1$ewDF$D8duGisiifRy9mnth5L
 201511
 201615
 201633
+2017
+20171221
+2017.123
+2017@123
+2017@123.com
+2017@abc
+2017@)!root
 201885
 201888
 201977
@@ -8341,6 +8392,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 232323
 2323234
 2323456
+@2323qwe
 2324079
 2325314zc
 2325597
@@ -8639,6 +8691,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 /2fdh9wshabi
 2fuK60v
 2i1AActBB8Sjackajm
+2mm10nss
 2rbS
 2sina
 2sina.com
@@ -8655,6 +8708,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 2wsx1qaz
 2wsx1qaz!
 2wsx3edc
+2wsx3EDC
 2WSX3EDC
 2wsx3edc4rfv
 2wsx4rfv6yhn
@@ -8780,6 +8834,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 319108
 319683
 31@QJ.cn]Maya=28+31@QJ.cn
+31spring
 31w.cn
 .......32
 320
@@ -8829,6 +8884,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 321!@#.987!@#.$%^^^&qwe
 321cacacios123
 321ewq
+321ewqdsa
 321qwe
 321qwe321
 321tenok
@@ -9062,6 +9118,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 3456erty
 3456.hk
 3457503
+345789
 345efswe54wsefE
 345ertdfg
 345ertdfgcvb
@@ -9335,6 +9392,8 @@ $1$ewDF$D8duGisiifRy9mnth5L
 3edcvbnm
 3edcvfr4
 3est
+3fMXwkoz
+3gmijxegL3kEbTnR
 3gxirdll
 3h7
 3h8
@@ -9709,6 +9768,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 421
 421032654
 421256522
+421618758
 422
 42214221
 4223
@@ -9884,6 +9944,7 @@ $1$ewDF$D8duGisiifRy9mnth5L
 453
 453634301
 454
+4541e95c
 4544126
 4545
 454545
@@ -10409,6 +10470,7 @@ $@@45678jh
 53567920
 536
 536136
+5365111
 5366
 537
 5373575
@@ -10440,6 +10502,7 @@ $@@45678jh
 54321%$#@!
 543210
 54321.0
+5432154321
 54321trewq
 544
 54420301
@@ -10868,7 +10931,10 @@ $@@45678jh
 6014502
 601543
 6016
+60.170-idc
 60.190
+60.190-idc
+60.190!@#idc
 60.191
 602
 602!@
@@ -10962,6 +11028,7 @@ $@@45678jh
 6200126
 620053
 620390
+62049235
 620515
 620609
 62062385
@@ -11094,6 +11161,7 @@ $@@45678jh
 63689995
 637
 637!@
+637311
 63749032
 6376
 63772120
@@ -11181,6 +11249,7 @@ $@@45678jh
 649
 649!@
 64972691
+64976827*gaoshi
 64988425
 64sdfa9gqq
 650
@@ -11490,6 +11559,7 @@ $@@45678jh
 6842
 684311
 6844
+68442d48fc
 684755
 685
 68509
@@ -11591,6 +11661,7 @@ $@@45678jh
 6y7u8i@WWDAdd
 6yhn7ujm
 6yhn7ujm8ik,
+6yhnmju7
 6yhn&UJM
 7
 !@#$%^7
@@ -12021,6 +12092,7 @@ $@@45678jh
 749
 749!@
 74919
+7495674
 7497
 7498
 7499906
@@ -12449,6 +12521,7 @@ $@@45678jh
 773218
 7733
 77335566
+7736157
 7737
 774
 774!@
@@ -13616,6 +13689,7 @@ $@@45678jh
 876
 876!@
 8762973
+8762973.
 !@$%^8765
 8765$#@!
 87654
@@ -13661,6 +13735,7 @@ $@@45678jh
 881024
 881122.+
 881205++
+88123!@#
 8812345
 88123456
 88137964
@@ -13812,6 +13887,7 @@ $@@45678jh
 89021332
 890731
 890iop
+890poi890poi
 891
 891!@
 891031
@@ -14260,6 +14336,7 @@ $@@45678jh
 963852741lr
 963963
 963963963
+963963yy
 963987
 964
 964!@
@@ -14635,9 +14712,11 @@ $@@45678jh
 9ijn8uhb7ygv
 9ijn8uhbYGV
 9IsjibL39ccU
+9LhrPZ74
 9n8b7v
 9o0p
 9o0p-[
+9-o9-o9-o
 9ol.0p
 9ol./;p0
 9ol./;p09ol./;p0
@@ -14673,10 +14752,12 @@ a119
 a12
 a123
 a.123
+a1230.
 a123000
 a123123
 a123.123
 a123123123
+a123.123.123a
 a123123456
 a123123a
 a123.321
@@ -14684,6 +14765,7 @@ a1234
 a123445
 a1234457
 a12345
+A12345
 A@12345
 a123456
 a123456!
@@ -14727,7 +14809,9 @@ a1a2a3a4a5
 a1b2
 a1b2c3
 A1b2c3
+A1B2c3...
 a1b2c3d4
+a1b2c3d4aaa123
 a1b2c3d4e5
 a1b2c3d4e5f6
 a1c2v3d4
@@ -14750,6 +14834,7 @@ a47984329
 A48dS3
 a5105034
 a5201314
+a5201714...
 a54798986
 a5762768
 a5886932
@@ -14795,6 +14880,7 @@ Aa123123
 aa1234
 aa123445
 aa12345
+aA12345
 Aa12345
 aa123456
 Aa123456
@@ -14826,6 +14912,7 @@ aaa
 aaa@@@
 AAA
 aaa111
+aaa111!!!
 aaa123
 aaa.123
 aaa123!@#
@@ -14891,6 +14978,7 @@ ab123
 ab123456
 Ab123456
 Ab123456789
+ab19780519
 ab1997
 ab419cecedd64b0
 ab761214cd
@@ -14908,6 +14996,7 @@ abc!@#
 ABC
 !A@B#C
 !A@B#C$
+abc10089!@#
 abc111
 abc111222
 abc123
@@ -14918,6 +15007,9 @@ abc.123
 abc@123
 abc@123.
 abc@123..
+abc*123
+abc#123
+abc#123!@#
 abc123,./
 abc123!
 abc123!@#
@@ -14926,6 +15018,7 @@ abc123.
 abc123...
 abc123#@!
 Abc123
+Abc-123
 Abc!123
 Abc.123
 Abc@123
@@ -15008,6 +15101,7 @@ abcd123@
 ABCD123
 abcd123123
 abcd123!@#12345
+abcd1231a
 abcd1231abd
 abcd123321
 abcd1234
@@ -15020,6 +15114,7 @@ abcd1234!@#$%
 abcd1234....
 Abcd1234
 Abcd.1234
+Abcd$1234
 Abcd1234!
 ABcd1234
 abcd12345
@@ -15109,6 +15204,7 @@ acc
 ACCEPT
 access
 Access
+accident
 Acconut
 accord
 account
@@ -15188,6 +15284,7 @@ AdfE!891Anovagerais
 adfexc
 adg
 adgjmptw
+ADgn!@34%hao
 adi
 adi123
 adi12345
@@ -15325,6 +15422,7 @@ admin$123
 admin123!
 admin123!@#
 admin123.
+admin123#@!
 Admin123
 Admin~123
 Admin@123
@@ -15337,6 +15435,7 @@ admin123123
 admin1234
 admin_1234
 admin@1234
+admin+1234
 admin1234%^&*
 Admin1234
 admin12341234
@@ -15404,6 +15503,7 @@ admin2014
 admin@2014
 admin@2016
 admin2017
+admin@2020idc.com
 admin21
 admin22
 admin222
@@ -15504,12 +15604,15 @@ admin911
 admin963
 admin98
 admin987
+admin9871
 admin99
 admin998998
 admin999
 admin999!@#
 admin9.com
+adminabc123
 adminadmin
+admin-admin
 adminadministrator
 adminas
 adminasd
@@ -15517,6 +15620,7 @@ adminasdf
 adminasdfghjkl
 adminchen
 adminchunlu123.
+admin@cib.com.cn
 admincm
 admin.com
 admin@czdx
@@ -15771,6 +15875,7 @@ aimam
 aiman
 aimee
 aimei
+AImi110120
 aimini
 aina
 aini
@@ -15851,6 +15956,7 @@ aktaruzzaman
 aku
 al
 Al19dh
+Al67!#phA
 alabala
 aladdin
 alading
@@ -16068,6 +16174,7 @@ amsterdam
 amstidc
 amulet
 amused
+amvip888
 amwitx19870209
 amy
 amyamy
@@ -16276,6 +16383,8 @@ aoduntech
 aoeduo
 AOL
 AOL123
+aolianna9871
+aoloj6CJ
 aoshiwanglu
 Aoyoo@@#)WL230@Server@#)
 aoyue(*&
@@ -16288,6 +16397,7 @@ aoyun
 aoyun2008
 aoyunhui
 ap0ll0
+apaajaboleh
 apache
 APACHE
 apache1
@@ -16320,6 +16430,7 @@ Apple
 apple1
 apple123
 apple@123
+apple520???apple
 applea
 applemac
 apples
@@ -16334,6 +16445,7 @@ apteka
 aptx
 aptx4869
 apwi
+apx!@!*epsin
 aq
 aq!@#
 aq!@#$
@@ -16359,6 +16471,7 @@ aqua
 aquarius
 aqy392
 ar
+Ar$$2017
 aragorn
 arahman
 araik
@@ -16460,6 +16573,7 @@ asd000
 asd10086
 asd1101110ASD
 asd123
+asd!@#123
 asd@123
 asd123!@#
 asd123.0
@@ -16470,18 +16584,22 @@ asd123456
 Asd123456
 asd1234567
 asd123asd
+ASD123asd
 asd123qwe
 asd147258
 asd2099
+Asd25174162244156
 asd321
 asd4321
 asd456
 ~!@_%^&a*sd_|)520><*
+asd520..
 ASDAS
 asdasd
 asd-asd
 ASDASD
 asdasd123
+asdasd123456
 asdasdasd
 asdasdfasdfg
 asdasdfghjkl
@@ -16803,6 +16921,7 @@ bach
 back
 Back99
 backdoor
+backerhack
 backpc
 backspace
 backup
@@ -16838,6 +16957,11 @@ baidanwangfei
 baidu
 baidu19861113
 baiduadmin
+baidubec
+baidubec@123
+baidubec@2017
+baidubec.com
+baidubec@qwert
 baidu.com
 baidu.com@)!!
 BAIDU.COM
@@ -16981,6 +17105,7 @@ bb147258
 bb147258369
 bb2000
 bb2server
+BBaaRRtt11!!
 bbarden
 bbb
 bbb123
@@ -17136,6 +17261,7 @@ best_74120299
 besthomel
 bestlove
 bestorder518
+bestseller
 BestUx123.com
 bet007
 bet021gf4jhpf
@@ -17850,6 +17976,7 @@ caonidaye888
 caonima
 *caonima
 caonima!@#
+caonima!@#$%
 caonima118
 caonima123
 caonima@123
@@ -17925,6 +18052,7 @@ carrie
 Carrie
 carry
 carson
+carter09
 carven
 carver
 cas
@@ -17969,10 +18097,12 @@ cazzo
 cb193833
 cb198333
 cb3833
+cba321
 cbhd
 cbidc
 cbidc2008
 cbl760208
+CbLR3miZ
 cbm168
 cbm168MRMHW
 cbm2008
@@ -18166,6 +18296,7 @@ ch3ch2oh
 ch3QSaogGxKf
 ch4ng3m3
 cha
+chaceidc
 chad
 chadley
 chadsta
@@ -18178,6 +18309,7 @@ chai9134
 chaifyuan
 chaifyuan520
 chain
+chaina2017go
 chainsaw
 chair
 chairleg
@@ -18624,10 +18756,12 @@ Chinab
 Chinabc
 chinabeijing
 chinabfidc!@#$..
+Chinabt.123
 Chinac
 chinacache
 chinacache.com
 chinacache.net
+Chinacacom
 chinacars
 chinacc
 chinacc2008
@@ -18774,6 +18908,7 @@ chinaidcuser
 chinaidcw
 Chinaidcw
 chinaidcw168
+chinaidcw168*
 chinaidcw.com168!@#
 chinaidcwty
 chinaintel
@@ -18801,6 +18936,7 @@ chinanetcenter
 chinanetcenter2008
 chinanetcenter.com
 chinanet.com
+Chinanetcom
 chinanet.tt
 chinanews
 chinans
@@ -18831,6 +18967,7 @@ chinazhenru
 chinazjwhosoft.cn
 chinese
 Chinese
+Chinese123
 chinese2010
 chip
 chipper
@@ -18872,6 +19009,7 @@ choumaoshi85
 chp
 chq
 chr
+chrg91X!zhang2017
 chris
 Chris
 chris1
@@ -19200,6 +19338,8 @@ cnktu2008
 cnktu654321
 cnl
 cnland
+cnlinkIDC@123
+cnlinkIDC@2017
 cnm
 cnn
 cnnb
@@ -19212,6 +19352,7 @@ cnoss123456
 cnoss2008
 cnot
 cnp
+cnp200@HW
 cnq
 cnr
 cnred
@@ -19304,6 +19445,7 @@ computer
 computer1
 computer@1314
 COMYS2007
+con012017
 concept
 concert
 conde
@@ -19321,6 +19463,7 @@ cong
 Congress
 connect
 connection
+connection(s)TEO@Romanian#
 conner
 connex
 connie
@@ -19399,7 +19542,10 @@ Cowboys
 cowie
 coyote
 cp
+cp.dns.com.cn.
 cpfcpf
+cp.jqrs8.com
+cp.jqrs8.com 
 cptbtptp
 cq12
 cq123456
@@ -19596,6 +19742,7 @@ ctrl
 Ctrl
 cts
 ctt
+ctthb.idc
 ctu
 ctu12345
 ctv
@@ -19603,6 +19750,12 @@ ctw
 ctx
 cty
 ctyily
+ctyun@123!
+ctyun@123!@#
+ctyun@!#2!#
+ctyun@2017
+ctyun@321!
+ctyun@321!@#
 ctz
 cubrid
 cubswin:)
@@ -19682,6 +19835,7 @@ cygnus
 cyh1987
 cyhyiq
 cyhyjq0571
+cyidc31137
 cynthia
 cyplove
 cyrano
@@ -19719,6 +19873,7 @@ d
 D
 d0lly
 d0wn
+d1k0Braz
 d1sn4t3n
 d1sn4t3n*123/
 d242d29on5Sep2015
@@ -19731,6 +19886,7 @@ d4rthv4d3r
 d4wsbxbb
 d8031j
 da
+da11ama!!
 da132321
 da54.0502
 daam
@@ -19861,6 +20017,7 @@ dasanlin
 dasaobi
 dAsaqQezadd
 dasha
+dashenglinux..
 dashuai
 dast
 dasusr1
@@ -19889,10 +20046,12 @@ david
 david1
 david123
 david8888
+davidking
 davidoff
 davinci
 davinci123
 dawei
+dawei112233
 dawei123
 dawei123456
 dawn
@@ -19959,6 +20118,7 @@ ddok123789
 ddos
 ddtt
 de
+de111234
 de3
 dead
 deadhead
@@ -19997,6 +20157,7 @@ deepblue
 def
 def456
 default
+default_admin
 defen04
 defender
 defense
@@ -20102,6 +20263,8 @@ develop
 developer
 development
 device
+devices@pci
+devices@pci000
 devilblf
 devildog
 deville
@@ -20611,9 +20774,11 @@ dserveridc
 dsfd%&
 dsfdskjlghlfkg
 dsideal
+dskj123
 dskjf
 dsl
 dsmw
+dsoflkasdsdf
 dspace
 dspiu9u3joedus323oi
 dsr3x
@@ -20674,6 +20839,7 @@ dwight
 Dwight
 dw_#opensim_194_785401_$
 DWORD
+dwp@123
 dx
 dxf0902
 dxhx123456
@@ -21092,6 +21258,7 @@ enter
 enterprise
 entropy
 envonhack
+eNVXjA6N
 enzo
 <_Eo08G7
 eol
@@ -21117,6 +21284,7 @@ eponserver
 EPONSERVER
 epsilon
 eq1234
+eqH4tlK3
 Equajv5hH6mkk
 erase
 erenb.com
@@ -21191,6 +21359,7 @@ eth
 etherpad
 etho
 ethos
+eThunderOMAdmin
 etihad
 eting1027
 eto
@@ -21229,6 +21398,7 @@ evilhacker
 evilhk
 evirgo
 evren
+ewaf5a1gweg
 ewaydns
 ewaydns123
 ewaydns.com
@@ -21236,6 +21406,7 @@ ewq
 !@#ewq
 #@!ewq
 ewq123
+ewq321#@!
 ewqasd
 !@#EWQASDCXZ
 ewqdsacxz
@@ -21287,6 +21458,7 @@ f23w2...
 f3d0r4
 F4
 f43b1d
+f446z4c6
 F4F4
 f508480.
 F557080903FangChan
@@ -21515,6 +21687,7 @@ fdsarewq
 fdsavcxz
 fdsazxcvqwer
 #fdwww
+f_e7c99e
 febiyanto
 february
 fec
@@ -21581,6 +21754,7 @@ fengrox
 fengruijia
 fENGSbySIW3
 fengsheng.87
+FENGxin258
 fengyi
 fengyu
 fengyue
@@ -21676,6 +21850,8 @@ fjfj123456
 fjfjfj
 fjghz
 fjhost
+FjHuaweidh1
+FjHw@2017
 fjidc.com.cn
 fjjcdfwang
 fjjdzz2010
@@ -21771,6 +21947,7 @@ forever
 forex
 forge
 forgot
+format_num
 formula
 formula1
 forrest
@@ -21796,6 +21973,7 @@ foxtrot
 foyzul
 fozzie
 fptuser
+fq534v5148
 fql789789
 fr33
 fr33bsd
@@ -22228,6 +22406,7 @@ fxj00
 fxkj_47
 fxlihao1
 FXLIHAO1
+fxljCKx2
 fxq5201314
 fxq9988
 fxue
@@ -22256,6 +22435,7 @@ G
 g00gl3
 g00night
 g0502
+g0df0r3v3r
 g0ldfing3r
 g1
 G$2#MZ0%1
@@ -22504,6 +22684,9 @@ gd@123456
 Gd6eETkg2qoY
 gd741852963
 gdagdg
+GDCC@wisedu@12
+GDCC@wisedu@1212
+GDCC@wisedu@2017
 GD#china563IDC@!#
 gdcn00286
 GDCN-iptv2008
@@ -23213,6 +23396,7 @@ gounder
 goup
 gourmet
 gout
+gouwang
 gouxiong
 gov
 govermen
@@ -23314,6 +23498,7 @@ greater
 greatester
 greatly
 greatsite
+greatwall
 grecian
 greece
 greed
@@ -23407,6 +23592,7 @@ grown
 growon
 growth
 growup
+gR@p3Ap3
 grps
 grub
 grudge
@@ -23523,6 +23709,7 @@ guangxi123456!@#$%^
 guangxiidc
 guangzhou
 guangzhouidc
+guangzhouidc!@#
 guangzhouidc123
 guangzhouidc123445
 guangzhouidc123456
@@ -23556,6 +23743,7 @@ guest123456
 guest2
 guest3
 guest666
+Guest7495674
 guest888
 guest999
 guestadmin
@@ -23642,6 +23830,7 @@ gurgle
 guru
 gush
 gusher
+gushu!@#
 gusr
 gust
 gustavo
@@ -23660,6 +23849,7 @@ gw
 gw@021
 gwbking
 gw.com
+gwidc.com
 gwjones
 gwn
 GWwvH15MaDic
@@ -23691,6 +23881,7 @@ gy
 gyggg
 GYIDC6666
 gyingidc
+gyjg123
 gyjs007
 gyjs520
 gyjs5566
@@ -24020,6 +24211,7 @@ haomingzhi
 haoni123
 haoqiant
 haoqingtianxia
+haoren7201710..
 haoren81246359
 haorenyishengpinganÃƒÂ¨Ã‚Â°Ã‚Â©
 haoruicctv
@@ -24228,6 +24420,7 @@ hbol
 HBSWlACPW7Mh
 hbtt
 hc123456
+hc1234569878
 hc123.net
 hc360
 hc360.com
@@ -24284,6 +24477,7 @@ hdsms=dell1950
 hdsms=h2d4t6x8
 hdt2008
 hduser
+hd$##*(XCByqServer
 hdyy
 hdyy258369
 hdz2008
@@ -24659,6 +24853,7 @@ hhh999
 hhhh
 hhhh1
 hhhh2000
+hhhh8888
 hhhhgggg
 hhhhh
 hhhhhaaaaa
@@ -24806,6 +25001,7 @@ hkk007
 hk@maya0769.com
 hkmjj
 hkmm
+hkxiaoqi$
 hkxvexi
 hKXXVHHsRWOr
 hkxy
@@ -24980,6 +25176,7 @@ hong288288
 hongjie
 hongker
 hongkong
+hongkong120
 hongkong@123
 hongniu
 hongniu22
@@ -25198,6 +25395,7 @@ ht123654
 ht963852741
 ht984218
 htc
+Htc2017@
 Htdhy**#
 htet
 htidc
@@ -25224,6 +25422,7 @@ httpd2
 httpdocs
 httx211!!0
 htxg_WX
+hty280324
 hu
 Hu123456
 hu163
@@ -25257,6 +25456,7 @@ huaiyong
 huaiyukeji115
 huaiyunle
 hualin52.cn
+hualin52.com
 hualiwl147741..
 huamu
 huamu123
@@ -25338,6 +25538,9 @@ HUAWEI
 huawei123
 Huawei_123
 Huawei@123
+HuaWei123
+huawei123456
+huawei@123456
 huawei2009
 huawei2010
 huawei2011
@@ -25345,6 +25548,7 @@ huawei@2016
 huawei.cn
 huawei.com.cn
 huaweiepon
+huawei@huawei.com
 huawein2000
 huaweiN2000
 huawein2000server
@@ -25354,6 +25558,7 @@ HUAWEIN2000USER
 huaweis%^))
 huaweiserver
 huaweiweb
+huaxia###@@@
 huaxin_520
 huayi
 huayi.com1+1=@
@@ -25394,6 +25599,7 @@ huiji2010
 huilong_!&&
 huishouzhan
 huiwei123
+huizhi@7788abc
 huizu
 hujintao
 hu.j.j
@@ -25489,6 +25695,7 @@ Hv897isTge28
 hw
 hw123
 hwang
+hwiptv@123456
 hwj7216882wc
 hwp123456
 hwserver
@@ -25514,6 +25721,7 @@ hxfxhfds
 hxfxhfdx
 hxfxxhda
 hxhack
+hxhtadmin
 hxhtftp
 hxsk
 hxwlkj
@@ -25609,6 +25817,7 @@ hzidc2009
 hzjcyyfz
 hzlkqq159
 hzlkqq82762352
+hzpepsico~VPN
 hztc
 hztc123456
 hztech
@@ -25625,6 +25834,7 @@ i
 i00k
 i123
 i1234
+i1i2dk0k
 i1o2p3
 i3872342i23
 i3c2hnH84uEA
@@ -25672,6 +25882,7 @@ ibm123456
 ibm@2016
 ibm@2017
 IBM@2017
+IBM-oa-wsj
 ibmpc
 ibm+systemx3650
 ibm-yang
@@ -25681,6 +25892,7 @@ ic
 ic289720
 IC2PB5HWvcqk
 IC8n&2sGzVR{
+iCache9200@huaweiPPL
 icarus
 icd
 icd1
@@ -25791,6 +26003,7 @@ idc12191
 idc123
 idc_123
 idc_@123
+idc-123
 idc!@#123
 idc@123
 idc123!@#
@@ -25915,6 +26128,7 @@ idc2012!@#
 idc2013
 idc2015
 idc2017
+idc2017$#@!
 idc202
 idc2020
 idc20201
@@ -25935,6 +26149,7 @@ idc2.com
 idc2.com.cn
 idc2.net.cn
 idc_2oo9
+idc!@#321
 IDC3211191
 idc35
 idc42547
@@ -25986,7 +26201,9 @@ idc_admin
 idc@admin
 IDCadmin
 idcadmin2007
+idcadmin2017
 idc.admin5.com
+idcadmin998
 idcasd
 idcasdasd
 idcasdf
@@ -26027,8 +26244,11 @@ idcguanliyuan
 IDCguanliyuan
 idc.gx.vnet.cn
 idchangzhou
+idchello.com
 idchonor
 idchost98
+idcht!@#
+idcht.com
 idchw
 idchw.com
 idchy
@@ -26173,6 +26393,7 @@ idt58myd
 idt6548
 idunno
 iefidri
+ieihc2xb
 ieio
 ienna
 iexiaoming
@@ -26203,10 +26424,12 @@ iiiiii
 iim
 iim1
 IIS
+iis@2017@11
 iis3xchank4lt
 iis3xchank4yy2
 iis_99yu_1
 iis_admin
+iisuser
 ijnokm
 ik
 ikawnaangbida
@@ -26311,6 +26534,7 @@ Inset
 inside
 insight
 inspire
+inspur
 insserver
 inst01
 install
@@ -26577,7 +26801,9 @@ jasonlee
 jasonn
 jasper
 Jasper
+jasson@mas.com
 jassonsoftim05
+jassonsoft_mas08
 jau-yau
 java
 javaprg
@@ -26688,6 +26914,7 @@ jetair
 jethro
 jets
 jeus6
+Jevon3211234
 Jewel
 jewels
 jfc1984jy
@@ -26964,6 +27191,7 @@ jiujiang88133
 jiujiangabc
 jiujiangidc
 jiujiangxuniji40
+jiulong1818
 jiumeng.net
 jiusui
 jiusui123.0
@@ -27130,6 +27358,7 @@ jq123$%^
 JQ123456
 jqczjweb
 jqczjwebserver
+jqrs8.com
 jqw
 jqw6690171
 jqweb(!@#$^_abc)
@@ -27274,11 +27503,14 @@ jwyao
 jx!@#^%$
 jx!@#$%^
 jx0573
+jx%^&*1234
 jx123456
 jx163
 jx163.com
 jx163idc
+jx5678@1234
 JXDX
+jxdx123456
 jxdxidc0206)@)^
 jxedt
 jxfhack
@@ -27694,6 +27926,7 @@ king88888888
 kingan
 kingcom5
 kingdee
+kingdee123
 kingdom
 king.f
 kingfish
@@ -27780,6 +28013,7 @@ kjy
 kjz
 kk-888-k
 kka
+kkadmin
 kkb
 kkc
 kkd
@@ -27828,6 +28062,7 @@ kljio88
 kljsdf2d
 klklkl
 klm
+kloplijk2017
 kloro
 klsACNajkldfhaitXa!@#@
 klsad982d
@@ -27920,6 +28155,7 @@ kouyifei
 koxr
 koxr123445
 koxr123456
+kPa9LPqwx
 Kr3at0r@I5Th3B3st0F!#$$#!
 kraft
 kramer
@@ -28032,6 +28268,7 @@ l
 l0cal
 l0ckd0wn
 l0c@mp0
+l0g@dm1n10
 l0ggde
 l0gged
 l0ser
@@ -28088,6 +28325,7 @@ laksjdhfg
 lala
 lala31
 lalala
+lalala123
 lalith
 lalo_112
 lambda
@@ -28281,6 +28519,7 @@ lcy
 lcz
 ld
 ldap
+ldgidc.com.123
 ldidc
 ldljbdxiaoyuan5226699a
 ldserver
@@ -28330,6 +28569,7 @@ legend
 legion
 legolas
 lei!@#!
+lei5211314!
 lei535480
 lei7882639
 leida
@@ -28460,6 +28700,7 @@ liangp
 liangp2008
 liangzdl
 lianhe
+lianjunhao521...
 lianren123
 liantong
 liantong123456
@@ -28583,6 +28824,7 @@ liming
 limited
 lin
 lin!#%&(
+lin0noriaj
 lin1296
 lin5512
 lina
@@ -28661,12 +28903,18 @@ linsheng
 linshi123
 linshimima
 linux
+Linux
 linux01
 linux1
 linux10
 linux123
 linux@123
+Linux.123
+Linux@123
+linux2017
+linux@2017
 Linux+!68
+Linux@abc
 linuxadmin
 linuxbox
 linuxgsm
@@ -28697,6 +28945,7 @@ lipi
 liping
 liping520
 lipinghui!@#$%
+liqi!@#123
 liqian
 liqiang
 liqijiushida
@@ -28792,6 +29041,7 @@ liumin
 liumin8758148
 liuming
 liuna
+liunx.abc
 liupeng
 liuping
 liuqian
@@ -28804,7 +29054,12 @@ liushuai
 liusisi
 liusisi520
 liutao
+liutaocaonima
 liutaolianmeng36726
+liutaoshiniba
+liutaoshiniba..
+liutaoshinidie
+liutaoshinidie..
 liuting
 liutingting
 liuwei
@@ -28812,6 +29067,7 @@ liuxia
 liuxiang1989321
 liuxiao5201314
 liuxin
+liuxing
 liuxiulan
 liuxiuying
 liuxuhantt520
@@ -28949,6 +29205,7 @@ lkjhgf
 lkjhgfdsa
 lkjhgfdsamnbvcxz
 lkjhgfdsazxcvbnm
+LKJmct5
 lkjoiu
 lkk
 lkl
@@ -29130,6 +29387,7 @@ love007
 love0708
 love1052
 love123
+love@123
 love123456
 love187329yes
 love1hzx
@@ -29155,6 +29413,7 @@ lovelan
 LOVEliuqi21999
 love@lj2009
 lovelly.cn
+lovelong2020mail
 lovelove
 lovely
 lovemay1314
@@ -29234,7 +29493,9 @@ lsu
 lsv
 lsw
 lsw2000
+lsw20000
 lsw20001
+lsw20002
 lswang
 lsx
 lsxnfcdl
@@ -29300,6 +29561,7 @@ lunnijie
 luo13277236589
 luo76
 luofei520!@#123
+LUOGou12197729
 luohan520
 luojia,,,zhang#$%,,,hj
 luojia,,,zhang!@#,,,rl
@@ -29401,6 +29663,7 @@ m121212
 M12345
 m1a2ll3y4
 m1l1t@ry
+m7v7d8
 m9o3g1m1
 ma
 ma@06&21
@@ -29444,6 +29707,7 @@ madmax
 madonna
 madrid
 maek
+magaeye
 magazine
 magda
 magda123
@@ -29479,6 +29743,7 @@ maii
 mail
 mail1234
 mail2007
+mail.2020idc.com
 mailbox
 mailer
 mail_htxg
@@ -29520,6 +29785,7 @@ mama.123/bufu
 mama520
 mamamia
 Mamc@2013temp@321
+Mamc!@#2017
 mamun
 mamunkodak
 man
@@ -29567,6 +29833,7 @@ maomao211
 maomao520biaobiao
 maomao5211
 maomao8361339
+maomao888
 maoyeye
 maoyeye528
 maozhuxi
@@ -29659,6 +29926,7 @@ masakihalu@ka9988.com
 masako
 maserati
 mason
+masong@1658
 mass
 !^@$@!massanjiang
 massoud
@@ -29671,6 +29939,7 @@ master12
 master123
 master1234
 master12345
+master1986
 master2009
 master520
 master5588
@@ -29875,6 +30144,7 @@ mexico
 meyou
 mf
 mfkgakg
+mfPseQm2
 mg123456789
 m&g_2003
 m&g_2008
@@ -29981,6 +30251,7 @@ mima1234567
 mima12345678
 mima123456789
 mima2008
+mima2017
 mima321
 mima520
 MImama
@@ -30200,6 +30471,7 @@ mmtt
 mmx2
 mmxxdd
 mmz
+MnARaO0O
 mnb19821210
 MNBlkjPOIO98
 mnbvcxy
@@ -30468,6 +30740,7 @@ mydx123
 mydx123445
 mydx123456
 myf7501
+myfriend
 mygod
 myhome
 myhome232
@@ -30528,6 +30801,7 @@ mzj123
 mzjmzj
 n
 n0chanc3
+N0th1n9
 n123456
 n1c0l3
 n1va1h
@@ -30549,7 +30823,9 @@ n2000user
 N2000user
 N2000USER
 n397534211
+n3wp@ss
 n3xnutue
+N4fP4gVh
 n58
 n582008
 n58.com
@@ -30656,6 +30932,7 @@ nbbn123987
 NBBTI0912nbbti
 nbdb
 nbit
+nbpt1580999!!!
 nbvcxz
 nbzlb908
 nbzlb908\\
@@ -30671,6 +30948,9 @@ nchorage
 ncidc18
 ncloveyl
 ncohumia
+ncs-cyber_tj_as
+ncs-cyber_tj_sb
+ncs-cyber_tj_sd
 ncslarry
 ND19_xvpau
 ndalusia
@@ -30714,6 +30994,9 @@ net
 Net
 net001
 net123
+net1580@!%*)
+net1580@@@
+net1580nbpt999
 Net2.0fordn1on@#$%^&
 Net4.0fordn1on@#$%^&
 netadmin
@@ -30726,6 +31009,7 @@ netbank.com@))(
 netbar
 Netbar
 Netbar2008
+netbox
 netbox123
 netcafe
 netcore
@@ -30833,6 +31117,7 @@ ng2008
 ngacn
 ngf1r3wall
 nginx
+ngminqiangzkdns
 ngockhoa
 nguyen
 nh350424
@@ -30953,8 +31238,10 @@ nj123456
 nj8888
 njb34
 njccs7
+njHuawei@2017
 njimko,lp
 njlscm
+njslt@hhsh.com
 njsql
 njtr
 nk
@@ -31072,8 +31359,10 @@ nr
 nroff
 nrxhdz514
 ns
+ns1.dns.com.cn
 ns2
 ns2cserver
+ns2.dns.com.cn
 ns2server
 nsa
 nsb
@@ -31209,6 +31498,7 @@ O+0+Oo)#*@&#%$#!
 o12nu27
 O2OIe!1HQv2)t#
 O#%69x%T@lxQYobWq2@LM
+o9i8u7y
 oa123
 oalio!@#1
 oana1982
@@ -31423,6 +31713,7 @@ onlycdn
 onlycdn10799
 onlycdn_onlyidc
 only.com
+onlygodknow!
 onlyidc
 onlyidc!@#
 ONLYIDC
@@ -31480,6 +31771,7 @@ onlyidcqwsa
 onlyidcy
 onlyidczj57
 onlyidczj73
+ons009009
 onsecureworld
 onshu
 ons@sh2008
@@ -31511,6 +31803,9 @@ openbravo
 openbsd
 openc
 opendoor
+opendoor@2005
+opendoor2017
+opendoor@2017
 openelec
 openerp
 openfire
@@ -31556,6 +31851,8 @@ oracle1234
 oracle123456
 oracle2
 oracle8
+oracle.BD@game
+OracleGame2017
 oraclepass
 ORACLE-PC
 oracrp
@@ -31588,6 +31885,12 @@ orlando
 Orlando
 ornsey
 ortega.123#TradeLinux
+os10+ZTE
+os10+ZTE!@#
+os10+ZTE!@#$%^
+os10+ZTE123
+os10+ZTE!@#123
+os10+ZTE123456
 oscar
 OSF
 osiris
@@ -31779,6 +32082,11 @@ partho
 partly
 partners
 party
+Pa$$s0rd
+Pa$$s0rd1
+Pa$$s0rd12
+Pa$$s0rd123
+Pa$$s0rd1234
 pascal
 $%PaShPr%$
 pasparoot222
@@ -31789,6 +32097,7 @@ Pass.
 PASS
 PASS..
 pass0000
+Pass001
 pass0123
 pass1
 pass12
@@ -31801,6 +32110,11 @@ pass1234
 Pass1234
 pass12345
 pass123456
+Pass1235
+Pass1236
+Pass1237
+Pass1238
+Pass1239
 pass2008
 pass456
 pass666
@@ -31829,6 +32143,7 @@ Passw0rd.*
 Passw0rd*
 Passw0rd*.
 Passw0rd+
+PassW0rd
 PASS@w0rd
 PASS@w0rd.
 PASS@w0rd.*
@@ -31887,6 +32202,7 @@ Password
 Pass@word
 Password!
 Password!@#
+Password!@#$
 Password.
 Password.*
 Password*
@@ -31901,6 +32217,7 @@ PASSWORD
 password0
 password01!
 Password01
+Password@01
 Password01!
 password1
 pass@word1
@@ -31920,6 +32237,7 @@ password@123
 password#123
 Password123
 password1234
+Password1234
 password12345
 password123456
 password1234567
@@ -31930,8 +32248,14 @@ password2
 password2008
 Password2009
 password321
+Password4
+Password5
+Password6
+Password7
+Password8
 password888
 password96
+Password99
 passwords
 passwordsa
 passwordx
@@ -31977,12 +32301,18 @@ Pause
 pausebreak
 PauseBreak
 pavel
+pa$$w0rd
 Pa$$w0rd
+pa$$w0rd1
 Pa$$w0rd1
+pa$$w0rd12
+pa$$w0rd123
+pa$$w0rd1234
 pawan
 pa$word
 pa$$word
 Pa$$word
+Pa$$word!@
 pa$$word1
 payment
 pba
@@ -32120,6 +32450,10 @@ perfect
 pericol
 permit
 perry
+pers0744
+pers1978
+pers3721
+pers9871
 persist
 person
 personal
@@ -32328,6 +32662,7 @@ pl,
 pl,123
 plain
 plainly
+plamenisgay
 plan
 plane
 planet
@@ -32355,6 +32690,7 @@ plesk
 */*pleskW$&*
 plex
 plm
+pl,mkoij
 plmoknijb
 plokijuh
 pl,okm
@@ -32509,6 +32845,8 @@ poyi
 pp009
 pp123321
 ppc
+ppeerrss00774444
+ppeerrss33772211
 ppfilm
 ppl123
 pplive
@@ -32518,6 +32856,7 @@ ppos
 ppp
 PPP
 ppp123
+ppp12345678
 pppp
 ppppp
 pppppp
@@ -32614,6 +32953,7 @@ p@ss4321
 pssdac
 pssl
 p@ssw0rd
+p@ssw0rd!
 p@ssw0rd.
 p$ssw0rd
 P@ssw0rd
@@ -32624,14 +32964,29 @@ P@ssw0rd.*
 P@ssw0rd*
 P@ssw0rd*.
 P@ssW0rd
+P@ssw0rd001
 P@ssw0rd1
+P@ssw0rd10
 P@ssw0rd!11111
+P@ssw0rd12
 P@ssw0rd123
 P@ssw0rd@123
+P@ssw0rd1235
+P@ssw0rd1236
+P@ssw0rd1237
+P@ssw0rd1238
+P@ssw0rd1239
 p@ssw0rd2
 P@ssw0rd2
 P@ssw0rd2016
+P@ssw0rd2017
 P@ssw0rd3
+P@ssw0rd4
+P@ssw0rd5
+P@ssw0rd6
+P@ssw0rd7
+P@ssw0rd8
+P@ssw0rd9
 p@ssw0rdk1y
 P@ssw0rdP@ssw0rd
 p@sswd
@@ -32650,6 +33005,7 @@ P@ssWord.
 P@ssWord.*
 P@ssWord*
 P@ssWord*.
+P@SSWORD
 p@ssword1!
 @P@ssword1
 P@ssword1
@@ -32690,6 +33046,7 @@ pumpkin
 Pumpkin
 puneet
 punkin
+pup87Nog$
 puppet
 puppies
 Puppies
@@ -32727,6 +33084,9 @@ P@$$w0rd@123
 p@$$w0rd2014
 pwd
 pwd1
+pwd@123$%^
+pwd@12345
+pwd@123456
 pwdbewizz
 pwlamea1.
 pwlamea.123
@@ -32764,7 +33124,9 @@ q123.0
 q1234
 q12345
 q123456
+q123456!
 q123456789
+q123456789-.q
 q123465
 Q1234%yy
 q12we34r
@@ -32808,6 +33170,7 @@ q274989854
 q2es
 q2server
 q2w3e
+!q2w3e4r
 q2w3e4r5
 !q2w3e4r5t6y7u
 !q2w#e4r
@@ -32892,6 +33255,7 @@ QAZ2wsx
 !QAZ2wsx#EDC
 !QAZ2wsx#EDC4rfv
 !qaz2wsxzaq1xsw@
+qaz321+++
 qaz333
 qaz.369
 !QAZ3edc
@@ -33018,6 +33382,7 @@ qazxswedcvfr
 qazzaq
 +_)(*&^QAZZAQ~!@#$%
 !QAZzaq1
+QAZzxc66@$%
 qbj6723
 qcrff5588aa
 qcx
@@ -33037,6 +33402,7 @@ qgb@3021!802
 qhd123456
 qhd2008
 qhdidc
+qhdidc@
 qhdidc2009
 qhdidc2010
 qhdidc2011
@@ -33128,6 +33494,7 @@ qiongyao
 qiqi99
 qiqiqi
 qishang
+qishang2017.com
 qishi65
 qishishuju
 qishiwojieyi
@@ -33210,6 +33577,7 @@ qq13960800870
 qq149206755
 qq163
 qq170540412
+qq177768
 qq18ww899
 qq1ww2ee3
 qq2008
@@ -33228,15 +33596,18 @@ qq5211314
 qq585858
 qq6724299
 qq7758520
+qQ799210
 qq82762110159
 @#QQ880106
 qq88123456aaa
 qq95857
 qq987654321
+qqaa123
 qqaazz
 qqaazz11400..
 qqaazz123
 qqaazzq
+qqaazzwsxe
 qq.com
 qqgexing
 qqhot
@@ -33374,6 +33745,8 @@ q!w@e
 q!w@e#
 qwe,./
 qwe!@#
+qwe!@#$
+qwe!@#$%
 qwe#@!
 QWE
 !@#QWE
@@ -33391,13 +33764,18 @@ qwe123
 qwe!@#123
 qwe.123
 qwe@123
+qwe*123
 qwe123!@#
+qwe123.+
 qwe123@
 qwe123*
 QWE123
 qwe123.0
+qwe123.00
+qwe123..00
 qwe123123
 qwe1231a
+qwe1231abd
 qwe1234
 qwe12345
 qwe123456
@@ -33418,6 +33796,8 @@ qwe12580
 qwe`12.wang
 qwe13.14
 qwe147
+qwe1asd2
+qwe1q2w3e
 qwe1rty2uiop3
 qwe2011
 qwe258
@@ -33430,9 +33810,11 @@ qwe456
 !Q@W#E4r5t6y
 qwe-5158-dsa
 qwe-5158-sa
+qwe520idc.cn
 qwe567#
 qwe741
 qwe789
+qwe-=789
 qwe/*-789
 qwe789!@#
 qwe789123
@@ -33449,6 +33831,7 @@ qwe!@#admin
 qweasd
 !@#qweasd
 qweasd!@#
+!!@#qweASD
 !@#qweASD
 !@#QWEasd
 QWEASD
@@ -33507,7 +33890,10 @@ qwer@0988
 qwer1101487
 qwer123
 qwer`123
+qwer!@#123
 qwer@123
+qwer123...
+qweR123$
 qwer123123
 qwer1234
 !@#$qwer1234
@@ -33521,6 +33907,8 @@ QWER1234
 qwer12345
 qwer123456
 qwer1234567890-
+qwer2017
+qwer246,.!!
 qwer4321
 qwer456789
 qwerasd
@@ -33605,6 +33993,7 @@ qwerty11
 qwerty111111
 qwerty12
 qwerty123
+qwerty@123
 qwerty123!
 Qwerty123
 qwerty1234
@@ -33801,6 +34190,7 @@ r
 r00+@1w@y5
 r00t
 r00t0000
+r00t0neio
 r00t1
 r00t11
 r00t12
@@ -34113,6 +34503,7 @@ rfvedcwsxqaz
 rfvujm
 rg21shuma090512
 rg21sjsm
+rgP0werCach1
 Rh3I5Lik3P4rtY@v3rmagnnumm
 rhino
 rhonda
@@ -34274,6 +34665,7 @@ root!@#!@
 root!@#!@#
 root!@#$
 root.
+root.!@#
 root@@@
 root#
 rOOt
@@ -34294,6 +34686,8 @@ root112
 root12
 root123
 root@123
+root@123-
+root@123-+
 root123!@#
 root123123
 root1234
@@ -34320,7 +34714,9 @@ root2008
 root2011
 root2012
 root2013
+root.2017
 root2017*.*/.
+Root@2017@
 root2020
 root21
 root22
@@ -34632,6 +35028,7 @@ sa@2007
 sa2008
 sa@20082008
 sa2010
+sa@20171115
 sa3
 sa321
 !@#sa321
@@ -34895,6 +35292,7 @@ sampath
 sample
 sampler
 Sampler
+samples
 sampling
 sampson
 samsam
@@ -35322,6 +35720,7 @@ sde
 sdf
 sdf432s
 SDF#$d567dsQEW
+sdfdsfs@123
 sdfghjkl
 sdfgsdf
 sdfjkwui123..
@@ -35419,6 +35818,7 @@ sed
 sedovic
 see
 seek
+seekhack8023
 seeku13
 sef
 SEF#@fdg54FG
@@ -35632,6 +36032,7 @@ SG_sz3&%^
 sgt
 sgt96870
 sgu
++#SGU9&rbf-#
 sgv
 sgw
 sgx
@@ -36409,6 +36810,8 @@ soho
 sohu
 sohu.com
 soidc
+soidc..123
+soidc...123
 soidc.14
 soidc2008
 soidc2010
@@ -36569,6 +36972,7 @@ sql2005
 sql2008
 sql@2008
 sql2010
+sql2017
 sql!2#4
 SQL520
 sql5201314
@@ -36688,6 +37092,7 @@ sta327
 stacey
 Stacey
 stack
+staff
 staff123
 stalin
 stalker
@@ -36791,6 +37196,7 @@ strider
 Strider
 strike
 string
+strSqlServerDb
 stsky
 stsoft
 stsysg@qq.com
@@ -36835,6 +37241,7 @@ sudarmaji
 sudarmin
 sudeep
 sudo
+sudu789123
 sue
 sufe1998
 suffer
@@ -36866,6 +37273,7 @@ sun
 sun113
 sun123
 sun12345
+sun123456
 sun198527@
 sun521
 sun99999.com
@@ -37054,6 +37462,8 @@ swingsytysonking
 swinslow
 switch
 switch1
+swlh@1234
+swlh@2017
 SwlW8865828
 sword
 swordfis
@@ -37067,11 +37477,13 @@ sx0011
 sx123456
 sx@123456
 sx5.@@*
+sxbctv2017
 sxcfvbnmjyfrtg
 SXCFVBNMJYFRTG
 sxcnc
 sxdx
 sxidc
+sxidc@123
 SXidc!@#456
 SXIDCZJ123!@#
 sy123
@@ -37194,6 +37606,7 @@ sz
 sz12
 sz123456
 szblade3944
+szgwbn
 szhnet
 szhnet12345
 szhnet.com
@@ -37232,6 +37645,7 @@ t3stm3
 t59mB0
 T5j6y7s8w
 T61PJ+Wp-t
+#T64kl9%fv3
 tabatha
 tables
 tacobell
@@ -37283,6 +37697,7 @@ tangenlai761230
 tangerine
 tangghao20!!
 tanghaiyun
+tangjun19861021
 tangjun!1990
 TangKe*80231314
 tango
@@ -37382,6 +37797,7 @@ teamspeam
 teamwork
 tech
 tech!@#
+tech1
 tech123
 tech1234
 tech50016731
@@ -37410,8 +37826,13 @@ telco
 tele2008
 tele2009
 telecom
+Telecom
+telecom@123
+Telecom@1234
 telecom2008
 telecom2009
+Telecom2017
+Telecom@2017
 telecomos126
 telecomos2008
 telefon
@@ -37437,6 +37858,7 @@ TempPassWord
 temppwd
 temproot
 temptation
+temptemp
 tempuser
 tendency
 Tendency
@@ -37498,6 +37920,8 @@ test123test
 test124
 test2
 test2011
+test@2017
+Test2017
 test22
 test2root
 test3
@@ -37913,6 +38337,7 @@ timber
 Timbo
 timbre
 time
+Time7777
 timely
 times
 times2011
@@ -37989,6 +38414,7 @@ titus
 tivoli
 tj112233
 tj123
+Tj_1234
 tj123456
 tj2008
 tj.51vip.com
@@ -38195,6 +38621,7 @@ toop123456
 toop1234567
 toop123654
 toop147258
+toop147258369
 toop789456
 tooptoop
 toor
@@ -38541,6 +38968,7 @@ trusting
 trustmaster
 trustno1
 trusty
+Tr@utenberk.007
 truth
 truthful
 try
@@ -39050,6 +39478,7 @@ ujmyhntgbrfv
 ujmyhntgbrfvedc
 ujmyhntgbrfvedcwsx
 ujmyhntgbrfvedcwsxqaz
+uJx8fKUw
 uk
 ukase
 ul
@@ -39075,6 +39504,7 @@ umma
 umts
 UMTS
 un
+un07Nc6A/R9yq2qaQZs=
 unable
 unafraid
 unaided
@@ -39173,6 +39603,7 @@ unsafe
 unscrew
 unseemly
 unseen
+unserver13399
 unshift
 unsigned
 unsound
@@ -39399,6 +39830,7 @@ utmost
 utopia
 utter
 utterly
+u_tywg_2017
 utztrp0
 UU77
 uucp
@@ -39429,6 +39861,7 @@ U&Y^T%R$E#W@
 U&^YT%$RE#@WQ!
 U&Y^T%R$E#W@Q!
 uytrewqazxcvbnmj
+uytuhdfg
 UZRvB7jQTqPV
 uzsado
 uzzal
@@ -39900,6 +40333,7 @@ vms
 vmtest1
 vmuser
 vmware
+vmw@re
 vn
 vnc
 vncserver
@@ -40115,6 +40549,7 @@ w3c
 w3cadmin
 w3lc0m3
 w57803909
+w62668.s44.mydiscuz.com
 W6g6LM8s4K54P
 w798uniod
 w9201p
@@ -40246,6 +40681,7 @@ wangfeng
 wangfenglan
 wangfengying
 wanggang
+wanggang4216
 wangge1227
 wangguifang
 wangguihua
@@ -40574,6 +41010,7 @@ WEB2008
 web456vv1234123
 web86909
 web888888
+web!@#890
 webadmin
 webadmin123
 webadmin123!@#
@@ -40722,8 +41159,10 @@ weit77
 weiwei
 weiwei@
 weiwei@20
+weiweiddos123
 weixiao
 weixiao2008
+weixinl147258
 weiyexinxi123!
 weiyexinxi789!
 weiyi123
@@ -40735,12 +41174,31 @@ welc0me
 welcome
 Welcome
 Welcome!
+Welcome!@#
+Welcome001
+Welcome@01
 welcome1
 Welcome1
+Welcome@1
+Welcome10
 welcome123
 welcome@123
 Welcome123
 Welcome123!
+Welcome123!@#
+Welcome1234
+Welcome1235
+Welcome1236
+Welcome1237
+Welcome1238
+Welcome1239
+welcome2
+Welcome4
+Welcome5
+Welcome6
+Welcome7
+Welcome8
+Welcome9
 welcomevasc321
 weld
 welfare
@@ -40845,8 +41303,11 @@ wg
 wgbxsyinchsoft425WGB
 WGdVIlSSwTtP
 WGg34#36
+Wgo5EwE8
 wgong
 wgqwin@$
+wgq@xjhl
+Wgu18Ue!
 wh03265438
 wh100idc
 wh100idc.com
@@ -41218,6 +41679,7 @@ wireless
 wireless2
 wiry
 wischmann
+wiscom
 wiscom123
 wisconsin
 wisdom
@@ -41454,6 +41916,8 @@ wodezuiai2
 wodiha
 wodizuiai
 woe
+WOInGC6W
+WOInNC6W
 wojianipy
 wojiaohao
 wojiaokq132
@@ -41547,6 +42011,7 @@ workcent
 worked
 worker
 worker62128
+workgroup
 Workgroup
 working
 workings
@@ -41611,6 +42076,7 @@ wounded
 wove
 woven
 wow
+wow1@sjaqjdnjs
 wow821210
 wowchina
 wowchina.com
@@ -41757,6 +42223,10 @@ wt1223
 wt1223@126
 wt1223@126.com
 wta
+WTaE36i1
+WTaE36i2
+WTaE36i3
+WTaE36i4
 wtb
 wtc
 wtd
@@ -41890,6 +42360,7 @@ wux
 wuxia,.1205
 wuxiang123
 wuxianwangka
+wuxiaomei
 wu@xiao#mei$
 wuxiaowei5201314
 wuxipanasia
@@ -42032,6 +42503,7 @@ www555
 www.55idc.com
 www.567idc.com
 www.56.com
+www.59.cn
 www.59.com
 www.5a5z.com
 www.5d.cn
@@ -42075,6 +42547,7 @@ wwwadmin
 www.admin5.com
 wwwangli1
 www.aodunidc.com
+www.baidubce.com
 www.baidu.co
 www.baidu.com
 www.baidu.net
@@ -42202,6 +42675,7 @@ www.idccc.net
 www.idc-cnc.com
 www.idc.com
 www.idc.com.cn
+www.idcht.com
 www.idchw.com
 www.idchy.com
 www.idckj.com
@@ -42222,6 +42696,7 @@ www.it.com.cn
 www.jjidc.com
 www.jmsidc.com
 www.jnidc.com.cn
+www.jqrs8.com
 www.jujumao.com
 www.jx163.com
 www.ksidc.cn
@@ -42306,6 +42781,7 @@ www.totoidc.com
 www.tsia.com.cn
 www.ttve.cn
 www.tudou.com
+www.twidcnet.com
 www.txwscx.comsritgyxf2sxy19831122zx
 wwwuser
 www.uusee.com
@@ -42371,6 +42847,7 @@ www.zxidc.net.cn
 www.zzidc.com
 www.zzy.cn
 wx123456
+wx95KLNW
 wxadminweb00o0
 wxdushinet
 wxfgjh761217
@@ -42490,13 +42967,17 @@ x1i5n3nu#2011
 x1x1
 x1x2x3
 x364300
+X3n0foN6996
+X3X@!!1234!!
 #x4%a68k3l5q0d7x1z9d0z
 #x4%a6d7x1z9d0z8k3l5q0
 x6g8n4f7d3
 x7wanybz
 xadxidc2007
 xadxjfidc
+xaidc!@#123
 xaidc2007
+xaidcht!@#
 xaidcjf2007
 xais
 xalicai.com
@@ -42629,9 +43110,12 @@ xiao123.1
 xiao123.2
 xiao123456
 xiao123xie
+xiao1314520.
+xiao1314520..
 xiao@#13798666881
 xiao1985410
 xiao!@1988
+xiao1996.
 xiao369852
 xiao77@ZXC!@##@!.18
 xiao881314
@@ -42698,15 +43182,28 @@ xiaojun!@#123
 xiaokang
 xiaoke
 XIAOKFTP
+$xiaolan
+#xiaolan
+#@!xiaolan
+xiaolan!@
+xiaolan$
+xiaolan1996-.
+xiaolan1996..
+xiaolan19961001
+xiaolan19961001-.
+xiaolan19961001+
+xiaolan1996-.q
 xiaoli
 xiaoli112600
 xiaoli1126.xc
 xiaolin
 xiaolong
+xiaolong@163.com
 xiaoM
 xiaoma
 xiaoma008
 xiaomai14789
+xiaoman***
 xiaoman***.
 xiaomanman
 xiaomantou
@@ -42860,6 +43357,9 @@ xinchuanbo2010
 xinchuanbo2011
 xinchuanbo520
 xinchuanbo520!@#
+xindela1129
+xindela1129!@#
+xindela9871
 xinfu
 xing
 xing28662212
@@ -42902,6 +43402,7 @@ xinyuwanrong
 xinzhang!@))
 xinzhao
 xinzhengP1689Bd=-
+xIo3L5vU8xVE
 xiomara
 xiong
 xiong123
@@ -42997,11 +43498,13 @@ xmodem
 xmtelecom
 xm@xiaozhou8268210
 xmyxmy
+xn8866a!#2!#
 xnima.cn
 xnq962129
 xo
 xochitl
 XodRqLJIUB
+XOjfJ5sM
 xoyo
 xp
 XP
@@ -43082,6 +43585,7 @@ xueji
 xue-jun
 xueluo
 xuemin1993
+xuese999
 xuexue
 xueyinwu19810323
 xufei520
@@ -43311,6 +43815,7 @@ y3209b
 y392l20
 y3ll0w
 y4yhl9t
+Y4yhl9t
 Y4yhl9T
 y51
 Y52y10**.ml.9p
@@ -43330,6 +43835,7 @@ yahoo123
 yahoo.com
 yahookhm
 yahookhmbt&&
+yaisp@520
 yaj129
 yaji
 yak
@@ -43593,6 +44099,7 @@ yelong5560037
 yelp
 yenohhoney
 yentracmmcartney
+Yeoch2W33148
 yeoman
 yes
 yes!
@@ -43844,6 +44351,7 @@ ymn
 ymo
 ymoolb
 ymp
+ympro@cdn31#
 ymq
 ymr
 yms
@@ -44059,6 +44567,8 @@ yumen
 yumiyo
 yummy
 yun
+Yun123#@!yI
+YUN392429
 yuncent
 yuncent2008
 yuncent.com
@@ -44258,6 +44768,7 @@ z885500
 z965
 z99999
 z9EQLFX0DhZH
+Z9q33-\\../
 za
 zabbix
 zabbix123
@@ -44354,6 +44865,7 @@ zaqxsw
 zaq!xsw@
 ZAQ!XSW@
 zaqxsw123
+ZAQ!xsw2
 zaqxswcde
 zaq!xsw@cde#
 ZAQXSWCDE
@@ -44510,6 +45022,7 @@ zhanghong
 zhanghongjunhuosai007
 zhanghongmei
 ZHANGHONGXIA
+zhanghu!@
 zhanghua
 zhanghui
 zhanghuimei
@@ -44711,6 +45224,7 @@ zhiban_2009
 zhiban_2010
 zhiban_2011
 zhicheng
+zh@id#0307
 zhida
 zhida110
 zhida123
@@ -44725,6 +45239,7 @@ zhida654321c
 zhidc
 zhiji
 zhijianadmin
+zhimakaimen
 zhingxtay
 zhiweimoto
 zhixin
@@ -44978,6 +45493,7 @@ zjsw
 zjsx87118888
 zjsxidc
 zjsxidc123
+Zjsxidc@12321456
 zjtest
 zjtx
 zjtx.com
@@ -45127,11 +45643,14 @@ zszhaolei
 zt
 zt123456
 ZTCSFYhPOsPp
+ZTE@1000
 zte2012
 zte2013
 Zte521
 zte@epon
 ZTE-R5300g3!
+ZTE@uss100
+ZTE@uss200
 ztidc
 ztj
 zto
@@ -45180,6 +45699,7 @@ zxc123!@#
 zxc123..
 zxc123.0
 zxc123123
+zxc.1234
 zxc123456
 Zxc123456
 ZXC258
@@ -45292,6 +45812,7 @@ zxidc.net.cn
 zxin10
 zxiptv
 zxjcweb
+zXJl@mwZ
 zxm10
 zxm19876
 zxm58220hz
@@ -45341,6 +45862,7 @@ zzcw13592669150
 zzf49438
 zzic
 zzidc
+zzIDC0330
 zzidc123
 zzidc@123
 zzidc2008
@@ -45410,6 +45932,7 @@ zzz777
 zzz789
 zzz888
 zzz999
+ZZZDCK1223
 zzzpm900
 zzztttzzz
 zzzxxx
