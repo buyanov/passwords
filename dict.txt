@@ -25353,6 +25353,7 @@ hf65f7hr!@
 HFCGAgameAd!sd119
 HF#ChinaIDC@IDCcenter
 HFdev!@#$
+hfjgsdjhfj
 hfrwgk62i$mzyaa
 hfs#d2k5$Xjh^dsY$6f
 HgeT23
@@ -32668,9 +32669,11 @@ oracle@123
 Oracle123
 ORACLE123!@#
 oracle1234
+oracle@1234
 oracle123456
 oracle2
 oracle2017
+oracle4
 oracle8
 oracle.BD@game
 OracleGame2017
@@ -39017,6 +39020,7 @@ tecnica
 tedaulamata@#$
 teddy
 teddy1
+tedial
 teef1
 teemo!@#
 teeth
